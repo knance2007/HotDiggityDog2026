@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "Hot Dogs: From Hometown Hero to Beyond"
 ---
-## The index page
+## Hot Dog That's Good
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This page will be a dedication to hot dogs: the many toppings, styles, history and culture surrounding them. 
 
 ## Editing pages
 
