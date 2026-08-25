@@ -6,11 +6,11 @@ title: "Hot Dogs: From Hometown Hero to Beyond"
 This page will be a dedication to hot dogs: the many toppings, styles, history and culture surrounding them. 
 
 ## Main Categories
-- [[content/category-history of hot dogs/index|History of Hot Dogs]]
-- [[content/category-fan favorites/index| Fan Favorites]]
-- [[content/category-toppings and to dos/index| Toppings and To Dos]]
-- [[content/category-meme culture/index| Meme Culture]]
-- [[content/category-funky fun extras/index| Funky Fun Extras]]
+- [[content/history-of-hot-dogs/index|History of Hot Dogs]]
+- [[content/fan-favorites/index| Fan Favorites]]
+- [[content/toppings-and-to-dos/index| Toppings and To Dos]]
+- [[content/meme-culture/index| Meme Culture]]
+- [[content/funky-fun-extras/index| Funky Fun Extras]]
 
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
