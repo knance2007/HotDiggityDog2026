@@ -5,4 +5,4 @@ History of Hot Dogs:
 Hot off the roller, steamer, the grill. The history of the hot dog and how it became a beloved food to the young and old. 
 
 ## Related Categories
-While hot dogs have evolved over the years, so has the [[content/meme-culture/index|meme-culture]] surrounding them. 
+ While hot dogs have evolved over the years, so has the [meme-culture](meme-culture/) surrounding them.
