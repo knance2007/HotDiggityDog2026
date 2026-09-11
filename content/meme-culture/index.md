@@ -7,7 +7,7 @@ Culture and Memes:
 Hot Dogs have a massive following. Not just because they are delicious, but because they have created a massive following on social media, and in the last few years have created a silly meme following. 
 
 ## Related Categories
-Culture surrounding hot dogs has been built upon the [[history-of-hot-dogs/index|history of hot dogs]].
+Culture surrounding hot dogs has been built upon the [[content/history-of-hot-dogs/# History of The Hot Dog|history of hot dogs]].
 
 ## Meme Culture Pages 
 
