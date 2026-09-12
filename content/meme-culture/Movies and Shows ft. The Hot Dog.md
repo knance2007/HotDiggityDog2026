@@ -20,5 +20,5 @@ Some moments featuring the hot dog on screen are unforgettable. Whether it was a
 		> "I want to lie on a beach and eat hot dogs. That’s all I’ve ever wanted." — Kevin Malone, *The Office*
 		
 5. Legally Blonde 2-Paulettes Scene
-		-  In the sequel, Elle is dressed perfectly in red, white, and blue. Paulette takes one look at her and says:
+	- In the sequel, Elle is dressed perfectly in red, white, and blue. Paulette takes one look at her and says:
 		![[PauletteHotDog.jpg|560]]
