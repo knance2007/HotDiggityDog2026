@@ -17,6 +17,8 @@ Hot Dogs have been a part of American pop culture for decades. Appearing in movi
 	- Held every year on the 4th of July at Coney Island. It has everything you want in a food contest- excitement, humor, and pure competiveness.
 		-(Joey Chestnut is a USDA Grade A Cultural Icon because of this contest)
 
+![[Joey_Chestnut.pdf]]
+
 Hot Dogs have been intertwined in our lives whether we realize it or not. You can see more of the pop culture moments over at [[Hot Dogs Being an Internet Sensation]]. 
 
 

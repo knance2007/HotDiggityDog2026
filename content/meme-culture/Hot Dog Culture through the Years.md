@@ -3,6 +3,7 @@
 
 Believe it or not, hot dogs have been a part of pop culture for many more years that people may think about. From message rooms like AOL and MSN chat to fashion and art, to exploding onto the social media scene with TikTok trends in recent years. 
 
+![[RobinWilliamsHotDog.jpg]]
 ### Hot Dog Eras 
 - The Early Years -Hot Dogs or Legs?
 - Snapchat Enters- The Dancing Hot Dog Filter

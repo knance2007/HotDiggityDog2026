@@ -5,6 +5,7 @@
 
 Hot Dogs have been inserted into movies and tv shows for decades. From background items, to snacks, to jokes or punchlines, to entire plots of episodes of your favorite shows. Hollywood loves the hot dog, and we love Hollywood for that. [[Hot Dogs Being an Internet Sensation]] discusses this as well, just how much the hot dog and media have collided to create a superstar out of an ordinary food item. 
 
+![[KirkGilmoreGirlsHotDog.jpg]]
 ## Iconic Moments on Screen 
 
 Some moments featuring the hot dog on screen are unforgettable. Whether it was a well timed joke or an excellent storyline, Hot Dogs have made their place in entertainment. 
@@ -22,3 +23,7 @@ Some moments featuring the hot dog on screen are unforgettable. Whether it was a
 5. Legally Blonde 2-Paulettes Scene
 	- In the sequel, Elle is dressed perfectly in red, white, and blue. Paulette takes one look at her and says:
 		![[PauletteHotDog.jpg|560]]
+
+
+
+![[DrakeJoshHotDog.jpg]]
