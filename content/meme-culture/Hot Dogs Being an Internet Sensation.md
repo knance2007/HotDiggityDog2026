@@ -15,5 +15,5 @@ Once social media pages like Vine and TikTok became involved, there was no stopp
 
 
 
-![[HotDogBurger.jpeg|283]] ![[PaulaDeanHotDog.jpg|254]]
+![[HotDogBurger 1.jpeg|283]] ![[PaulaDeanHotDog.jpg|254]]
 ![[LotteryHotdog.png|515]]
