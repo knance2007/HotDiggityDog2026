@@ -12,4 +12,18 @@ Coney Island becomes a spectacle every 4th of July to watch this food competitio
 
 Multiple techniques are used by the competitors for the 10 minute long competition. 
 - The most famous is the "Dunk and Bite Method". This technique involves dunking your hot dog into water or any other non-alcholic drink to lessen chewing time and ease swallowing. 
-- The next most used technique is 
+
+#### The Prize
+The winner  of the men's competition receives a bedazzled mustard yellow belt. The winner of the women's competition wins a pink bedazzled belt. 
+Cash prizes have also been awarded to the "top dog". 
+
+#### The Top Dogs of the Competition
+If you are familiar with the Nathan's Hot Dog Contest you will recognize these names. 
+
+The winners of 2026 and have consecutive titles are Joey Chestnut for the men's competition and Miki Sudo for the Women's. 
+
+Joey Chestnut won his 18th mustard yellow title belt this year (2026). 
+
+Miki Sudo won her 12th pink belt this year (2026) 
+
+

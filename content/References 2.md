@@ -63,6 +63,14 @@ Source: https://www.thehotdog.org/hot-dog-trivia-questions/
 **Cited in:**  
 - ../funky-fun-extras/Hot%20Dog%20Trivia.md
 
+#### Nathan’s Hot Dog Eating Contest — Awards (Wikipedia)  
+Source: https://en.wikipedia.org/wiki/Nathan%27s_Hot_Dog_Eating_Contest#Awards
+
+**Cited in:**  
+- [/funky-fun-extras/Hot Dog Festivities](../funky-fun-extras/Hot%20Dog%20Festivities.md)
+
+
+
 ---
 
 ##  history-of-hot-dogs
@@ -91,5 +99,6 @@ Source: https://true-north-kitchen.com/tunnsbrodrulle-swedish-hot-dogs/
 Source: https://guidetoiceland.is/travel-iceland/drive/baejarins-beztu-pyslur  
 **Cited in:**  
 - ../toppings-and-to-dos/Across%20the%20Pond.md
+
 
 ---
