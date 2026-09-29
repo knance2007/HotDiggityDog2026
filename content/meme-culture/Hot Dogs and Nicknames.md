@@ -1,3 +1,7 @@
+---
+"Date:": 2026-09-28
+title: Hot Dogs and Nicknames
+---
 
 > "He really ate that glizzy like it was nothing." — RDCWorld1
 

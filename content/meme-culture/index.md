@@ -1,6 +1,11 @@
 ---
-Culture and Memes:
+Culture and Memes: meme culture
+"Date:": 2026-09-28
 ---
+
+---
+
+
 ## Hot Dog Culture and the Memes they've created
 
 

@@ -1,3 +1,7 @@
+---
+title: Hot Dogs and Pop Culture
+"Date:": 2026-09-28
+---
 # Hot Dogs and Pop Culture
 
 >“A hot dog at the ballpark is better than steak at the Ritz.” — Humphrey Bogart

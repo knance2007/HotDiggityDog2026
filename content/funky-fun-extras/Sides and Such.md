@@ -1,3 +1,7 @@
+---
+"Date:": 2026-09-28
+title: Sides and Such
+---
 ## Sides and Such 
 
 There are many sides to eat with a good ol' hot dog. From classic sides, to a little wild, below are some sides you can try with your next dog. 

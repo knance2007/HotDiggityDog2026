@@ -11,3 +11,7 @@ The Hot Dogs history in the U.S. of A. begins allegedly in the late 1800s, early
 
 ## Related Categories
  While hot dogs have evolved over the years, so has the  [[meme-culture/index|meme culture]] surrounding them. To find out more about the history, read in the [[Whats in a name]] page.
+
+## History of the Hot Dog pages
+[[Whats in a name]]
+

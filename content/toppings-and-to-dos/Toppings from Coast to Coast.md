@@ -1,3 +1,7 @@
+---
+title: Toppings from Coast to Coast
+"Date:": 2026-09-28
+---
 # Who wants a hot dog??!!
 
 Condiments and toppings vary depending on which state or side of the US you're on. 
