@@ -15,3 +15,4 @@ Hot dogs were one of the first foods eaten on the moon! "To Infinity and Beyond!
 
 Soviet Premier Nikita Khrushchev during a visit to the U.S. in 1959 admitted that Americans made better sausages. 
 
+![[Mickey Mouse.jpg]]

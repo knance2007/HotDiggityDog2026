@@ -69,6 +69,10 @@ Source: https://en.wikipedia.org/wiki/Nathan%27s_Hot_Dog_Eating_Contest#Awards
 **Cited in:**  
 - [/funky-fun-extras/Hot Dog Festivities](../funky-fun-extras/Hot%20Dog%20Festivities.md)
 
+#### Is a Hot Dog a Sandwich? — National Hot Dog & Sausage Council  
+Source: https://www.hot-dog.org/culture/hot-dog-sandwich  
+Cited in:  
+- ../funky-fun-extras/Speaking My Language.md
 
 
 ---
@@ -114,5 +118,47 @@ Source: https://hot-dog.org/press/mustard-remains-americans%E2%80%99-favorite-ho
 Source: https://apinchofadventure.com/leftover-hot-dog-recipes-amp-ideas/  
 **Cited in:**  
 - ../toppings-and-todos/Hot%20Dogs%20in%20Other%20Foods.md
+- 
+#### Is a Hot Dog a Sandwich? — National Hot Dog & Sausage Council  
+Source: https://www.hot-dog.org/culture/hot-dog-sandwich  
+Cited in:  
+- ./Is It a Sandwich.md  
+- ./index.md
+
+- 
+## meme culture
+
+
+#### Hot Dogs or Legs? — Know Your Meme  
+Source: https://knowyourmeme.com/memes/hot-dogs-or-legs  
+Cited in:  
+- ./Hot Dog Culture through the Years.md
+
+#### Glizzy — Know Your Meme  
+Source: https://knowyourmeme.com/memes/glizzy  
+Cited in:  
+- ./Hot Dogs and Nicknames.md
+
+
+#### Glizzy — Know Your Meme  
+Source: https://knowyourmeme.com/memes/glizzy  
+Cited in:  
+- ./Hot Dog Culture through the Years.md
+
+#### Slang for Hot Dog — FluentSlang  
+Source: https://fluentslang.com/slang-for-hot-dog/  
+Cited in:  
+- ./Hot Dogs and Nicknames.md
+
+#### Personal Commentary  
+Source: Original analysis and observations by the author  
+Cited in:  
+- ./Movies and Shows ft. The Hot Dog.md
+
+#### Betsey Johnson “Wiener Takes All” Hot Dog Purse — ShoeMall  
+Source: https://www.shoemall.com/product/betsey-johnson-wiener-takes-all-crossbody-hot-dog-purse/  
+Cited in:  
+- ./Hot Dogs and Pop Culture.md
+
 
 ---

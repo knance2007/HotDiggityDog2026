@@ -24,6 +24,6 @@ The nickname "Glizzy" seemed to explode onto the scene in recent years. People h
 - Weenie
 
 
-Many nicknames can be connected to popular tv show or movie lines, as referenced in [[Movies and Shows ft. The Hot Dog]]. Regional Nicknames and the like can be found in the early days of the hotdog, found in [[Hot Dog Culture through the Years]] and [[content/history-of-hot-dogs/Index|History of Hot Dogs]]. 
+Many nicknames can be connected to popular tv show or movie lines, as referenced in [[Movies and Shows ft. The Hot Dog]]. Regional Nicknames and the like can be found in the early days of the hotdog, found in [[Hot Dog Culture through the Years]] and [[History of Hot Dogs Homepage|History of Hot Dogs]]. 
 
 

@@ -2,6 +2,7 @@
 title: Mustard Vs. Ketchup
 "Date:": 2026-09-29
 ---
+>- “Nobody, I mean nobody, puts ketchup on a hot dog.” – Clint Eastwood (_Sudden Impact_)
 
 ## Mustard vs. Ketchup- who wins?
 
