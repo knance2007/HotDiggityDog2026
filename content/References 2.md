@@ -100,5 +100,19 @@ Source: https://guidetoiceland.is/travel-iceland/drive/baejarins-beztu-pyslur
 **Cited in:**  
 - ../toppings-and-to-dos/Across%20the%20Pond.md
 
+#### Mashed — Hot Dog Condiment Poll  
+Source: https://www.mashed.com/1408323/only-one-condiment-hot-dog-ketchup-mustard/  
+**Cited in:**  
+- ../toppings-and-todos/Mustard%20vs.%20Ketchup.md
+
+#### National Hot Dog & Sausage Council — Mustard Remains America’s Favorite Hot Dog Topping  
+Source: https://hot-dog.org/press/mustard-remains-americans%E2%80%99-favorite-hot-dog-topping-ketchup-shows-surprising-popularity-new  
+**Cited in:**  
+- ../toppings-and-todos/Mustard%20vs.%20Ketchup.md
+
+#### A Pinch of Adventure — Leftover Hot Dog Recipes & Ideas  
+Source: https://apinchofadventure.com/leftover-hot-dog-recipes-amp-ideas/  
+**Cited in:**  
+- ../toppings-and-todos/Hot%20Dogs%20in%20Other%20Foods.md
 
 ---
