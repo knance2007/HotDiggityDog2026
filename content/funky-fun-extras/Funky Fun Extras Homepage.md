@@ -1,5 +1,5 @@
 ---
-Funky Fun Extras:
+"title: Funky Fun Extras":
 "Date:": 2026-09-28
 ---
 ## Funky Fun Extras

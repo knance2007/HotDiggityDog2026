@@ -1,5 +1,6 @@
 ---
-History of Hot Dogs:
+title: History of Hot Dogs
+"Date:": 2026-09-30
 ---
 # History of the Hot Dog!
 Hot off the roller, steamer, the grill. The history of the hot dog and how it became a beloved food to the young and old. 
