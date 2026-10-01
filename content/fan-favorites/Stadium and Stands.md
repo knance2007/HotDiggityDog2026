@@ -1,6 +1,6 @@
 ---
-title: Stadium and Stands
-"Date:": 2026-09-28
+title: "Stadium and Stands"
+Date: 2026-09-28
 ---
 ## Hot Dogs! Get Ya Hot Dogs!
 

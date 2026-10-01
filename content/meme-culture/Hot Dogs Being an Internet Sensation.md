@@ -1,6 +1,6 @@
 ---
-title: Hot Dogs Being an Internet Sensation
-"Date:": 2026-09-28
+title: "Hot Dogs Being an Internet Sensation"
+Date: 2026-09-28
 ---
 
 ![Philosoraptor meme asking if hot dogs are tacos|571](Images/HotDogPhilosopher.jpeg)

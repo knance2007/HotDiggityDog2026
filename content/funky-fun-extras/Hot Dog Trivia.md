@@ -1,6 +1,6 @@
 ---
-title: Hot Dog Trivia
-"Date:": 2026-09-28
+title: "Hot Dog Trivia"
+Date: 2026-09-28
 ---
 ## Lets Take a Bite Out of Hot Dog Trivia!
 

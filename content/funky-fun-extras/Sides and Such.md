@@ -1,6 +1,6 @@
 ---
-"Date:": 2026-09-28
-title: Sides and Such
+Date: 2026-09-28
+title: "Sides and Such"
 ---
 ## Sides and Such 
 

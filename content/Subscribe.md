@@ -1,6 +1,6 @@
 ---
-title: Subscribe
-"Date:": 2026-09-30
+title: "Subscribe"
+Date: 2026-09-30
 ---
 
 

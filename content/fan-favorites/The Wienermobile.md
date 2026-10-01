@@ -1,6 +1,6 @@
 ---
-title: The Wienermobile
-"Date:": 2026-09-29
+title: "The Wienermobile"
+Date: 2026-09-29
 ---
 ### The Wienermobile-A Fixture in American Culture 
 

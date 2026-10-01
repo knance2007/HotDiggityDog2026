@@ -1,6 +1,6 @@
 ---
-"title: Fan Favorites":
-"Date:": 2026-09-28
+title: "Fan Favorites"
+Date: 2026-09-28
 ---
 
 > "I love hot dogs. I could eat them all day"- Joey Chestnut (THE Hot Dog Eating Champion)

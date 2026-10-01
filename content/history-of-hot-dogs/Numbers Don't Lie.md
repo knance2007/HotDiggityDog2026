@@ -1,6 +1,6 @@
 ---
-title: Numbers Don't Lie
-"Date:": 2026-09-29
+title: "Numbers Don't Lie"
+Date: 2026-09-29
 ---
 
 

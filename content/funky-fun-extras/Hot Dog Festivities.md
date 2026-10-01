@@ -1,6 +1,6 @@
 ---
-title: Hot Dog Festivities
-"Date:": 2026-09-29
+title: "Hot Dog Festivities"
+Date: 2026-09-29
 ---
 ## Hot Dog Festivities- Competitions and Challenges
 

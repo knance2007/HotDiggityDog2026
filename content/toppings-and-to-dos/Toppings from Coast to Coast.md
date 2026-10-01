@@ -1,6 +1,6 @@
 ---
-title: Toppings from Coast to Coast
-"Date:": 2026-09-28
+title: "Toppings from Coast to Coast"
+Date: 2026-09-28
 ---
 # Who wants a hot dog??!!
 

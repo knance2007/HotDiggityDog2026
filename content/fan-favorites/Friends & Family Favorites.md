@@ -1,6 +1,6 @@
 ---
-title: Friends and Family Favorites
-"Date:": 2026-09-29
+title: "Friends and Family Favorites"
+Date: 2026-09-29
 ---
 ## Family and Friend Recommendations 
 

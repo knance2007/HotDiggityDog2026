@@ -1,6 +1,6 @@
 ---
-title: Speaking My Language
-"Date:": 2026-09-30
+title: "Speaking My Language"
+Date: 09-30-2026
 ---
 
 

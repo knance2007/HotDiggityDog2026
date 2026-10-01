@@ -1,6 +1,6 @@
 ---
-title: Hot Dog Firsts in History
-"Date:": 2026-09-28
+title: "Hot Dog Firsts in History"
+Date: 2026-09-28
 ---
 ## History and The Hot Dog 
 

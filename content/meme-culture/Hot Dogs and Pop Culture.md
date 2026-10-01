@@ -1,6 +1,6 @@
 ---
-title: Hot Dogs and Pop Culture
-"Date:": 2026-09-28
+title: "Hot Dogs and Pop Culture"
+Date: 2026-09-28
 ---
 # Hot Dogs and Pop Culture
 

@@ -1,6 +1,6 @@
 ---
-title: Is It A Sandwich?
-"Date:": 2026-09-30
+title: "Is It A Sandwich?"
+Date: 2026-09-30
 ---
 
 

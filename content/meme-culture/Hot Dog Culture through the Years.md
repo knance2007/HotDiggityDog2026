@@ -1,6 +1,6 @@
 ---
-title: Hot Dog Culture Through the Years
-"Date:": 2026-09-28
+title: "Hot Dog Culture Through the Years"
+Date: 2026-09-28
 ---
 
 ## Hot Dog Humor and More

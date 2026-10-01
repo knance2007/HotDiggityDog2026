@@ -1,6 +1,6 @@
 ---
 title: "Hot Dogs: From Hometown Hero to Beyond"
-"Date:": 2026-09-28
+Date: 2026-09-28
 ---
 ## Hot Dog That's Good
 

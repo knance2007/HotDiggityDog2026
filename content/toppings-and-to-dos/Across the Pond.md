@@ -1,6 +1,6 @@
 ---
-title: Across the Pond
-"Date:": 2026-09-28
+title: "Across the Pond"
+Date: 2026-09-28
 ---
 ## Interesting Toppings Around the World 
 

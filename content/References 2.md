@@ -1,6 +1,6 @@
 ---
-"title: References":
-"Date:": 2026-09-30
+title: "References"
+Date: 2026-09-30
 ---
 # References
 

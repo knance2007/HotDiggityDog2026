@@ -1,6 +1,6 @@
 ---
-title: Location Location
-"Date:": 2026-09-28
+title: "Location Location"
+Date: 2026-09-28
 ---
 ### Top 3 States to Grab a Dog
 - New York 

@@ -1,6 +1,6 @@
 ---
-title: Hot Dogs in Other Foods
-"Date:": 2026-09-29
+title: "Hot Dogs in Other Foods"
+Date: 2026-09-29
 ---
 
 

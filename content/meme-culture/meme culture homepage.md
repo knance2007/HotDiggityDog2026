@@ -1,6 +1,6 @@
 ---
-Culture and Memes: meme culture
-"Date:": 2026-09-28
+Culture and Memes: "meme culture"
+Date: 2026-09-28
 ---
 
 ---

@@ -1,6 +1,6 @@
 ---
-title: Movies and Shows ft. The Hot Dog
-"Date:": 2026-09-28
+title: "Movies and Shows ft. The Hot Dog"
+Date: 2026-09-28
 ---
 
 
