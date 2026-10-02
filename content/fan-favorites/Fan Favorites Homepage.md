@@ -11,5 +11,4 @@ Where can you find the best hot dog in the U.S. of A? Look no further. Below are
 ![[Hot Dog map.jpg|318]]
 
 
-
 When it comes to everything that goes on top of a dog? You can find out more at [[Toppings from Coast to Coast]]
