@@ -29,12 +29,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 'lts/*'
+          node-version: '22'
           cache: 'npm'
           cache-dependency-path: quartz/package-lock.json
       - name: Install Node.js dependencies
         working-directory: quartz
-        run: npm ci --omit=dev
+        run: npm ci 
       - name: Build website
         run: npx quartz build
         working-directory: quartz
