@@ -8,13 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "📖 Knowledge Base Docs",
+    pageTitle: "🌭 Hot Diggity Dog 2026",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "/HotDiggityDog2026/",
-",
+    baseUrl: "knance2007.github.io/HotDiggityDog2026/",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

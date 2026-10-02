@@ -1,8 +1,10 @@
 ---
 title: About Me
-"Date:": 2026-09-28
+Date: 2026-09-28
 ---
 
 # Welcome!
 
-My name is Katy Nance, I am Junior currently at Texas Tech Online. I live in Corpus Christi while also working full time as a Criminal Defense Paralegal. I chose my topic of hot dogs because they are delicious, easy to make, and part of many sports events and fan favorites. I'd like to build this website on their history, the many different types of hot dogs, and the cultural impact they have made. 
+My name is Katy Nance. I am a junior at Texas Tech Online, and I live in Corpus Christi while working full time as a criminal defense paralegal. I chose hot dogs as my topic because they are delicious, easy to make, and deeply connected to sports, traditions, and favorite memories.
+
+This site explores hot dog history, regional styles, famous favorites, and the cultural impact of this iconic food.
