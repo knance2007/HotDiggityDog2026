@@ -14,7 +14,8 @@ This site is a celebration of hot dogs in all their forms: from ballpark classic
 - [Toppings and To Dos](/toppings-and-to-dos/)
 - [Meme Culture](/meme-culture/)
 - [Funky Fun Extras](/funky-fun-extras/)
-- [References](References.md)
+- [[References]]
+- 
 - 
 
 ## Why this topic?
