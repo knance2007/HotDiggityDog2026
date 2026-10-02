@@ -15,8 +15,11 @@ This site explores the history, culture, and fan-favorite traditions around hot 
 - [Toppings and To Dos](/toppings-and-to-dos/)
 - [Meme Culture](/meme-culture/)
 - [Funky Fun Extras](/funky-fun-extras/)
-- [References](/References%202)
-- [Subscribe](/Subscribe)
+- [index.md]
+- [REFERENCES.md]
+
+
+
 
 ## Why hot dogs?
 
