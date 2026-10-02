@@ -1,5 +1,5 @@
 ---
-title: "Hot Dogs: From Hometown Hero to Beyond"
+title: '"Welcome to Hot Dogs"'
 Date: 2026-09-28
 ---
 
